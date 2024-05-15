@@ -1,0 +1,5 @@
+cd C:\Users\ciadi\Documents\PARETO\react-2022\proyecto-del-curso
+
+yarn dev
+
+http://localhost:5173/
